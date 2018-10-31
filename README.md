@@ -36,4 +36,4 @@ Then, go to the root directory of the project and open your favorite terminal. Y
 docker-compose up --build
 ```
 
-#Isn't thas too easy ? :D
+# Isn't thas too easy ? :D
