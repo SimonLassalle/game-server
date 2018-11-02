@@ -12,5 +12,4 @@ INSERT INTO users
   (name, color)
 VALUES
   ('Mimon', 'blue'),
-  ('Pierre', 'brown'),
   ('Lola', 'green');
